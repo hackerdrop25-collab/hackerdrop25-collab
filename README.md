@@ -12,12 +12,22 @@
 
 ### 👨‍💻 About Me  
 
-I'm a passionate *Cyber Security student, Python Developer, and Linux Practitioner*.  
-I enjoy building secure, automated, and efficient systems, with a focus on Python-based tools and Linux administration.  
+### 👨‍💻 About Me  
+
+I'm a motivated *Cyber Security Engineering student* with a strong interest in building **secure, intelligent, and scalable systems**. I enjoy working at the intersection of **application security, automation, and software development**, with hands-on experience in developing Python-based tools, secure web applications, and Linux-based environments.
 
 - 🎓 Pursuing *B.E. in Cyber Security*  
-- 💻 Skilled in *Python, Java, C, JavaScript, Dart, Linux, and Web Development*  
-- 📫 Reach me at *naveenkumarp23cys@srishakthi.ac.in*  
+- 💻 Skills: *Python, Java, C, JavaScript, Linux, Web Development, Flask, Git, Docker*  
+- 🎯 Interests: *Application Security, Penetration Testing, DevSecOps, Secure Automation*  
+- 📫 Reach me at: *naveenkumarp23cys@srishakthi.ac.in*   
+
+---
+### 🚀 Featured Projects  
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 *Automated Resume Analyzer* (Jun 2025 – Nov 2025) | Developed an AI-powered web application to automatically analyze resumes, extract key skills, match candidate profiles with job descriptions, and rank applicants based on relevance. Implemented secure file upload, PDF/DOCX parsing, NLP-based keyword extraction, and an interactive dashboard for recruiters and admins. | 🐍 Python • 🖥️ Flask • 🗄️ SQLite • 🤖 NLP • 🎨 HTML • CSS • JavaScript |
+| 🔐 *File Encryption & Steganography System* (Jul 2024 – Dec 2024) | Built a secure system to encrypt and decrypt files using AES cryptography and hide sensitive information inside images using steganography techniques. Added password-based authentication, file integrity verification, and a responsive web interface to ensure safe and confidential data sharing. | 🐍 Python • 🔐 AES Cryptography • 🖥️ Flask • 🖼️ OpenCV • 🎨 HTML • CSS • JavaScript |
 
 ---
 
