@@ -10,9 +10,9 @@
 
 ---
 
-### 👨‍💻 About Me  
 
-### 👨‍💻 About Me  
+
+### 👨‍💻 About Me   
 
 I'm a motivated *Cyber Security Engineering student* with a strong interest in building **secure, intelligent, and scalable systems**. I enjoy working at the intersection of **application security, automation, and software development**, with hands-on experience in developing Python-based tools, secure web applications, and Linux-based environments.
 
@@ -22,6 +22,8 @@ I'm a motivated *Cyber Security Engineering student* with a strong interest in b
 - 📫 Reach me at: *naveenkumarp23cys@srishakthi.ac.in*   
 
 ---
+
+
 ### 🚀 Featured Projects  
 
 | Project | Description | Tech Stack |
@@ -30,6 +32,8 @@ I'm a motivated *Cyber Security Engineering student* with a strong interest in b
 | 🔐 *File Encryption & Steganography System* (Jul 2024 – Dec 2024) | Built a secure system to encrypt and decrypt files using AES cryptography and hide sensitive information inside images using steganography techniques. Added password-based authentication, file integrity verification, and a responsive web interface to ensure safe and confidential data sharing. | 🐍 Python • 🔐 AES Cryptography • 🖥️ Flask • 🖼️ OpenCV • 🎨 HTML • CSS • JavaScript |
 
 ---
+
+
 
 ### 💻 Programming Languages  
 <p align="center">
@@ -42,6 +46,7 @@ I'm a motivated *Cyber Security Engineering student* with a strong interest in b
 </p>
 
 ---
+
 
 ### 🌐 Web Development  
 <p align="center">
