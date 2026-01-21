@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Python+Developer;Linux+Practitioner;DevSecOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Python+Developer;Linux+Practitioner;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me  
 
 I'm a passionate *Cyber Security student, Python Developer, and Linux Practitioner*.  
-I enjoy building secure, automated, and efficient systems, with a focus on Python-based tools, Linux administration, and DevSecOps practices.  
+I enjoy building secure, automated, and efficient systems, with a focus on Python-based tools and Linux administration.  
 
 - 🎓 Pursuing *B.E. in Cyber Security*  
 - 💻 Skilled in *Python, Java, C, JavaScript, Dart, Linux, and Web Development*  
