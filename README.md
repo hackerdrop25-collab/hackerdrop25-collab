@@ -62,16 +62,12 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 
 ---
 
-## 📊 GitHub Stats — Naveen Kumar P  
+## 📊 GitHub Status — Naveen Kumar P  
 
 <p align="center"> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hackerdrop25-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerdrop25-collab&layout=compact&theme=tokyonight&hide_border=true" /> 
-</p> 
-
-<p align="center"> 
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerdrop25-collab&theme=tokyonight&hide_border=true" /> 
-</p> 
+</p>
 
 <p align="center"> 
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hackerdrop25-collab&theme=tokyo-night&hide_border=true" /> 
