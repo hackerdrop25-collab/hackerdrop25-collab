@@ -105,7 +105,8 @@ I'm a motivated *Cyber Security Engineering student* with a strong interest in b
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  <a href="https://leetcode.com/u/NA234VEN/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 </p>
