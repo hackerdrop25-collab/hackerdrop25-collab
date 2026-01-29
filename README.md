@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me   
 
-I passionate B.E. Cyber Security student with a strong interest in Python development, DevOps, and secure system design. I enjoy building practical security tools, automating workflows, and exploring how modern applications can be protected from real-world cyber threats.I have hands-on experience working with Flask-based security applications, AES encryption, steganography, and network simulations. I’m also actively learning DevOps tools, CI/CD pipelines, and cloud security practices to strengthen my skills in building and securing scalable systems.I believe in continuous learning, practical implementation, and creating projects that solve real problems in cybersecurity and software development.
+                I passionate B.E. Cyber Security student with a strong interest in Python development, DevOps, and secure system design. I enjoy building practical security tools, automating workflows, and exploring how modern applications can be protected from real-world cyber threats.I have hands-on experience working with Flask-based security applications, AES encryption, steganography, and network simulations. I’m also actively learning DevOps tools, CI/CD pipelines, and cloud security practices to strengthen my skills in building and securing scalable systems.I believe in continuous learning, practical implementation, and creating projects that solve real problems in cybersecurity and software development.
 
 - 🎓 Pursuing *B.E. in Cyber Security*  
 - 💻 Skills: *Python, Java, C, JavaScript, Linux, Web Development, Flask, Git, Docker*  
