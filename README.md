@@ -78,9 +78,10 @@
 ## 📊 GitHub Status — Naveen Kumar P  
 
 <p align="center"> 
-  <img width="49%" src="https://stats-github.vercel.app/api?username=hackerdrop25-collab&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> 
-  <img width="49%" src="https://stats-github.vercel.app/api/top-langs/?username=hackerdrop25-collab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hackerdrop25-collab&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerdrop25-collab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> 
 </p>
+
 
 
 <p align="center"> 
