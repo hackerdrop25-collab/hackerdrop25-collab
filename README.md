@@ -79,6 +79,8 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 ## 📊 GitHub Status — Naveen Kumar P  
 
 
+
+
 <p align="center"> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hackerdrop25-collab&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerdrop25-collab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> 
@@ -88,6 +90,21 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 </p>
 
 ---
+## 💻 LeetCode Stats & Streak  
+
+<p align="center">
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
+    <img src="https://leetcode-stats.vercel.app/api?username=lgsNroNVgg&theme=dark&show_icons=true" alt="LeetCode Stats - Naveen Kumar" />
+  </a>
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/lgsNroNVgg?theme=dark" alt="LeetCode Card - Naveen Kumar" />
+  </a>
+</p>
+
+<p align="center">
+  <b>👨‍💻 LeetCode Profile:</b>
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">Naveen Kumar</a>
+</p>
 
 ### 🔗 Connect With Me  
 
