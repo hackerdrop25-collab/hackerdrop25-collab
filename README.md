@@ -79,6 +79,9 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 ## 📊 GitHub Status — Naveen Kumar P  
 
 
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=navdrop25-collab&theme=tokyonight&hide_border=true" />
+</p>
 
 
 <p align="center"> 
