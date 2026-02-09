@@ -98,13 +98,14 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 ## 💻 LeetCode Stats & Streak  
 
 <p align="center">
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=lgsNroNVgg&theme=dark&show_icons=true" alt="LeetCode Stats - Naveen Kumar" />
+  <a href="https://leetcode.com/u/NA234VEN/" target="_blank">
+    <img src="https://leetcode-stats.vercel.app/api?username=NA234VEN&theme=dark&show_icons=true" alt="LeetCode Stats - Naveen Kumar" />
   </a>
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/lgsNroNVgg?theme=dark" alt="LeetCode Card - Naveen Kumar" />
+  <a href="https://leetcode.com/u/NA234VEN/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/NA234VEN?theme=dark" alt="LeetCode Card - Naveen Kumar" />
   </a>
 </p>
+
 
 <p align="center">
   <b>👨‍💻 LeetCode Profile:</b>
