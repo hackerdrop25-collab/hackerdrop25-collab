@@ -82,9 +82,10 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 
 
 <p align="center"> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hackerdrop25-collab&show_icons=true&theme=tokyonight&hide_border=true" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerdrop25-collab&layout=compact&theme=tokyonight&hide_border=true" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navdrop25-collab&show_icons=true&theme=tokyonight&hide_border=true" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdrop25-collab&layout=compact&theme=tokyonight&hide_border=true" /> 
 </p>
+
 
 
 <p align="center">
