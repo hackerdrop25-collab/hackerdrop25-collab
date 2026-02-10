@@ -111,7 +111,7 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 
 <p align="center">
   <b>👨‍💻 LeetCode Profile:</b>
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">Naveen Kumar</a>
+  <a href="https://leetcode.com/u/NA234VEN/"target="_blank">Naveen Kumar</a>
 </p>
 
 ### 🔗 Connect With Me  
