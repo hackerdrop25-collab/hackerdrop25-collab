@@ -67,6 +67,7 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
+---
 
 ### ⚙️ Tools & Platforms  
 <p align="center">
