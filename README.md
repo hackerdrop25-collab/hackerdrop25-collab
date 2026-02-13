@@ -58,6 +58,16 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 
 ---
 
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+
 ### ⚙️ Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nmap,wireshark,docker,jenkins" /><br><br>
