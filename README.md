@@ -104,10 +104,10 @@ I passionate B.E-Cyber Security student with a strong interest in Python develop
 
 <p align="center">
   <a href="https://leetcode.com/u/NA234VV/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=NA234VEN&theme=dark&show_icons=true" alt="LeetCode Stats - Naveen Kumar" />
+    <img src="https://leetcode-stats.vercel.app/api?username=NA234VV&theme=dark&show_icons=true" alt="LeetCode Stats - Naveen Kumar" />
   </a>
   <a href="https://leetcode.com/u/NA234VV/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/NA234VEN?theme=dark" alt="LeetCode Card - Naveen Kumar" />
+    <img src="https://leetcard.jacoblin.cool/NA234VV?theme=dark" alt="LeetCode Card - Naveen Kumar" />
   </a>
 </p>
 
